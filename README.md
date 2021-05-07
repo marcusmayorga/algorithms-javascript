@@ -1,1 +1,1 @@
-# algorithms-javascript
+# Algorithms with JavaScript
