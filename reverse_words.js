@@ -1,3 +1,5 @@
+// NOT USING array.reverse() method
+
 function reverseWords(string) {
 
     // Variable to hold the string split into an array at spaces
